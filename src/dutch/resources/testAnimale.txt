@@ -1,0 +1,6 @@
+ Maimuta?A. aapB. beerC. olifantD. giraffeA maimuta=aap
+ Urs?A. beerB. neushoornC. leeuwD. kangoeroeA
+ urs=beer Leu?A. beerB. neushoornC. leeuwD. kangoeroeC
+ leu=leeuw Caine?A. hondB. muisC. ratD. hamsterA
+ caine=hond Pisica?A. hondB. katC. goudvisD. konijnB
+ pisica=kat

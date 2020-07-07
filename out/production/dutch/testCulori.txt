@@ -1,0 +1,15 @@
+ Negru?A. bruinB. witC. zwartD. roodC negru=zwart
+ Rosu?
+A. blauwB. geelC. roodD. grijsCrosu=rood
+ Galben?
+A. blauwB. geelC. roodD. grijs
+B
+galben=geel
+ Albastru?
+A. blauwB. geelC. roodD. grijs
+A
+albastru=blauw
+ Verde?
+A. paarsB. geelC. groenD. oranje
+C
+verde=groen

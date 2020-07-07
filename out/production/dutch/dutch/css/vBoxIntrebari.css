@@ -1,0 +1,5 @@
+.rectangle {
+-fx-background: linear-gradient(to top right, rgba(76, 178, 178), rgba(25, 40, 40));
+    -fx-padding: 15;
+    -fx-spacing: 10;
+}

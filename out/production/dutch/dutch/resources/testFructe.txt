@@ -1,0 +1,6 @@
+ Mar?A. appelB. druivenC. sinaasappelD. kersenC mar=appel
+ Portocala?A. appelB. druivenC. sinaasappelD. kersenC
+portocala= sinaasappel Struguri?A. appelB. druivenC. sinaasappelD. kersenB
+ struguri=druiven Capsune?A. aardbeienB. druivenC. sinaasappelD. kersenA
+ capsune=aardbeien Lamaie?A. aardbeienB. citroenC. sinaasappelD. kersenB
+ lamaie=citroen

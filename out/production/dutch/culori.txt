@@ -1,0 +1,6 @@
+Negru ---> Zwart
+Galben ---> Geel
+Alb ---> Wit
+Verde ---> Groen
+Albastru ---> Blauw
+Gri ---> Grijs

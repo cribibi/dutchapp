@@ -1,0 +1,16 @@
+.scroll-pane > .viewport {
+    -fx-background-image: url("../resources/netherlands2.jpg");
+    -fx-background-color: transparent;
+}
+
+.scroll-pane {
+    -fx-background-color: transparent;
+}
+
+.root {
+}
+
+.label{
+    -fx-text-fill: black;
+}
+

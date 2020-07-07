@@ -1,0 +1,10 @@
+.root {
+  -fx-background-image: url("../resources/tul2.jpg");
+
+}
+
+.label{
+    -fx-text-fill: black;
+    -fx-text-alignment: center;
+    -fx-font-size: 20;
+}

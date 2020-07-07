@@ -5,7 +5,7 @@
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
       </element>
-      <element id="module-output" name="emedi" />
+      <element id="module-output" name="dutch" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../proiecteIT/javafx-sdk-14.0.1/lib/src.zip" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../proiecteIT/javafx-sdk-14.0.1/lib/javafx-swt.jar" path-in-jar="/" />
       <element id="extracted-dir" path="$PROJECT_DIR$/../proiecteIT/javafx-sdk-14.0.1/lib/javafx.web.jar" path-in-jar="/" />
